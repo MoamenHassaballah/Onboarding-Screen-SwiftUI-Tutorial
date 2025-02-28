@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Take Away-amico.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
